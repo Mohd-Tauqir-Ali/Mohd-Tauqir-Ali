@@ -1,6 +1,7 @@
 ![logo](https://github.com/Mohd-Tauqir-Ali/Mohd-Tauqir-Ali/blob/main/mohd%20tauqir%20ali.png)
 <h1 align="center">Hi 👋, I'm Mohd Tauqir Ali</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<p>Passionate and creative Full Stack Web Developer with expertise in building dynamic, user-friendly applications. Skilled in crafting seamless web experiences and committed to delivering high-quality code while embracing new technologies.</p>
+<!-- <h3 align="center">A passionate full stack web developer from India</h3> -->
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
